@@ -10,6 +10,7 @@ Creating/deleting/uploading a file to s3bucket from command line using python bo
  
   b) After creating s3 bucket :
 command : ./s3bucket.py create-bucket sravan_first_510
+
 First argument: create_bucket
 Second argument: Unique_bucket_name
   
